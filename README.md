@@ -1,6 +1,6 @@
 # VKF Physics Seminar
 
----
+
 
 Project made to test and graph the tasks and interesting experiments for Physics Seminar at GBN (Gymnásium Benešov).
 
