@@ -1,6 +1,8 @@
 # Hydrostatics
 
-<br>
+
+---
+
 ## Task 1
 
 > We have a cylindrical container filled with different fluids (water, ethanol, and mercury). Graphically show the
